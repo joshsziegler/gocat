@@ -20,8 +20,8 @@ import (
 	log "github.com/sumup-oss/go-pkgs/logger"
 	"github.com/sumup-oss/go-pkgs/os"
 
-	"github.com/sumup-oss/gocat/cmd"
-	"github.com/sumup-oss/gocat/internal/config"
+	"github.com/joshsziegler/gocat/cmd"
+	"github.com/joshsziegler/gocat/internal/config"
 )
 
 func main() {
