@@ -18,7 +18,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/joshsziegler/gocat/internal/relay"
+	"github.com/infinitetactics/gocat/internal/relay"
 )
 
 type UnixSocketClient struct {

@@ -1,4 +1,4 @@
-module github.com/joshsziegler/gocat
+module github.com/infinitetactics/gocat
 
 require (
 	github.com/kelseyhightower/envconfig v1.3.0

@@ -42,7 +42,7 @@ linters-settings:
   lll:
     line-length: 140
   goimports:
-    local-prefixes: github.com/joshsziegler/gocat
+    local-prefixes: github.com/infinitetactics/gocat
   gocritic:
     enabled-tags:
       - performance
